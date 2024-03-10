@@ -1,0 +1,207 @@
+commit 7589ef84a09d03ee91dfa5c92ddb5bb79daf1233
+Author: spencerckhuang <shuan126@jh.edu>
+Date:   Mon Oct 24 18:38:12 2022 -0400
+
+    made adjustments to project.c using is_all_digits. also altered is_all_digits to return true for both floats and negative numbers
+
+commit e5e2feee60c25479bfd0debaf825161a922a1ba6
+Author: luna1108 <qliu65@jhu.edu>
+Date:   Mon Oct 24 13:23:15 2022 -0400
+
+    removed is_double
+
+commit 4ddda418594159f390aa2b56edad8d911cabab83
+Author: luna1108 <qliu65@jhu.edu>
+Date:   Mon Oct 24 13:03:36 2022 -0400
+
+    completed is_double
+
+commit 43402113bb4805c7753191f2cd7dbb71914066a9
+Author: luna1108 <qliu65@jhu.edu>
+Date:   Mon Oct 24 12:43:28 2022 -0400
+
+    Revert "wrote is_double"
+    
+    This reverts commit 727888c2b761b0298ae71105dfb442f61d7270bf.
+
+commit 727888c2b761b0298ae71105dfb442f61d7270bf
+Author: luna1108 <qliu65@jhu.edu>
+Date:   Sun Oct 23 19:26:43 2022 -0700
+
+    wrote is_double
+
+commit a26dcc04086816cef46dedc1619ea1b900f1663b
+Author: luna1108 <qliu65@jhu.edu>
+Date:   Sun Oct 23 14:34:01 2022 -0700
+
+    completed is_all_digits helper function
+
+commit d0c2d2368c8abf4a77f2fed859c6bfcbddac4aa5
+Author: spencerckhuang <shuan126@jh.edu>
+Date:   Sat Oct 22 19:41:16 2022 -0400
+
+    completed first draft of project
+
+commit c2feb019bf42967138a860f7bc56b9a7f823fdd9
+Author: spencerckhuang <shuan126@jh.edu>
+Date:   Sat Oct 22 17:30:08 2022 -0400
+
+    fixed swirl, working on memory leak issues
+
+commit 043eca64569cfc9a4076d57b14d24d28f829f500
+Author: spencerckhuang <shuan126@jh.edu>
+Date:   Wed Oct 19 13:17:24 2022 -0400
+
+    working on swirl method, cleaned some code up in project.c, need to fix parameter detection in project.c for swirl
+
+commit 176b0de9524b7f9928b79de41e924a1b1e4fd001
+Author: spencerckhuang <shuan126@jh.edu>
+Date:   Wed Oct 19 13:10:31 2022 -0400
+
+    fixed edge detection
+
+commit b958cad54b5b017d8660a5b39e80f9b46a4f2659
+Author: spencerckhuang <shuan126@jh.edu>
+Date:   Wed Oct 19 13:02:49 2022 -0400
+
+    started foundation code for project.c
+
+commit 3f6113d67691651ff1a112cfd68fecfcb34ab14f
+Author: luna1108 <qliu65@jhu.edu>
+Date:   Wed Oct 19 12:52:59 2022 -0400
+
+    Revert "found new swirl bug"
+    
+    This reverts commit e69cd8ccde6fd1c7be50278829b9438c81b523bb.
+
+commit e69cd8ccde6fd1c7be50278829b9438c81b523bb
+Author: luna1108 <qliu65@jhu.edu>
+Date:   Wed Oct 19 12:06:43 2022 -0400
+
+    found new swirl bug
+
+commit 54969e55cd985e6bbf110fd505de5765a3a6aeaf
+Author: luna1108 <qliu65@jhu.edu>
+Date:   Mon Oct 17 23:07:58 2022 -0400
+
+    swirl debugged?
+
+commit 104f4e896a37a007fe84ab5e52b36b202910405f
+Author: luna1108 <qliu65@jhu.edu>
+Date:   Mon Oct 17 20:45:19 2022 -0400
+
+    swirl fixed?
+
+commit 9d2c2c40c4cdd56b8eadc25f0fa7da4ff5fc5f26
+Author: spencerckhuang <shuan126@jh.edu>
+Date:   Thu Oct 13 18:45:24 2022 -0400
+
+    still working on swirl
+
+commit b2feb63bb4d4efe25206e7b5b3dfac438b8e980b
+Author: spencerckhuang <shuan126@jh.edu>
+Date:   Thu Oct 13 18:30:32 2022 -0400
+
+    tested swirl func, completed draft, not working as of now
+
+commit 6741b8d5de13daf06218ee4416c789ef994bbde5
+Author: luna1108 <qliu65@jhu.edu>
+Date:   Thu Oct 13 18:21:35 2022 -0400
+
+    drafted swirl_effect
+
+commit 8f37823c0cd56945ad92dbb093e6036bff72d126
+Author: luna1108 <qliu65@jhu.edu>
+Date:   Thu Oct 13 17:56:54 2022 -0400
+
+    drafted zoom_out
+
+commit aabc3bb9a998005e9ef6bf8566d325838c35d3b6
+Author: luna1108 <qliu65@jhu.edu>
+Date:   Thu Oct 13 17:55:44 2022 -0400
+
+    draft zoomout
+
+commit fe62251fac5701777e54dee926bc36b018ef25fa
+Author: spencerckhuang <shuan126@jh.edu>
+Date:   Thu Oct 13 11:18:12 2022 -0400
+
+    drafted zoom_out:
+
+commit 17e7b3faf3e9ed976095a8f15280401597374c05
+Author: spencerckhuang <shuan126@jh.edu>
+Date:   Wed Oct 12 20:57:07 2022 -0400
+
+    fixed rotate_right, tested successfully for trees.ppm
+
+commit d010880cefedfe6997d5cd6f4615e2feb82085e6
+Author: spencerckhuang <shuan126@jh.edu>
+Date:   Wed Oct 12 20:23:28 2022 -0400
+
+    tested rotate-right, dimensions correct but pixels wrong
+
+commit 561797af5f72d328a4e5d3f1959bd7222a9a2886
+Author: luna1108 <qliu65@jhu.edu>
+Date:   Wed Oct 12 18:51:10 2022 -0400
+
+    draft completed for rotate_right
+
+commit eafa7f95dd87f40907d90a492c99445e8fcd566b
+Author: spencerckhuang <shuan126@jh.edu>
+Date:   Wed Oct 12 12:59:53 2022 -0400
+
+    invert method worked on checkerboard and trees, but not on kitten
+
+commit 61a563ff36941c710e1a7898eabba44611a011ea
+Author: spencerckhuang <shuan126@jh.edu>
+Date:   Wed Oct 12 12:18:31 2022 -0400
+
+    adjusting invert method and test file
+
+commit 938ddf0daee519463578ec9c46a7fe0a433cde8d
+Author: spencerckhuang <shuan126@jh.edu>
+Date:   Wed Oct 12 10:25:03 2022 -0400
+
+    small change to image_manip.c swap function, also adjusted ppmtesting.c file to test the swap function
+
+commit 084f3149ff22a2902fa75698dd90ace5cba8d019
+Author: luna1108 <qliu65@jhu.edu>
+Date:   Mon Oct 10 14:18:05 2022 -0400
+
+    completed draft for swap and invert
+
+commit 0be5675cc35149820b8c31016fcd285d128dd6d0
+Author: spencerckhuang <shuan126@jh.edu>
+Date:   Sun Oct 9 20:22:49 2022 -0400
+
+    made changes to resize_image... but still unsure as to what it is meant to do
+
+commit c253194c456a91b8d4bb3239dbef97ed8bfa466c
+Author: spencerckhuang <shuan126@jh.edu>
+Date:   Sun Oct 9 20:03:30 2022 -0400
+
+    fixed ppm_io.c write_ppm method, updated makefile to work with ppm_io_testing.c
+
+commit b1eefc8b6afe1946e9f662aba592c997f035eb32
+Author: spencerckhuang <shuan126@jh.edu>
+Date:   Sat Oct 8 20:28:53 2022 -0400
+
+    fixed makefile to also remove 'project' and 'compare' execs
+
+commit a4b0bab11887a29cd9af22258fc646831e1f6485
+Author: spencerckhuang <shuan126@jh.edu>
+Date:   Sat Oct 8 20:28:04 2022 -0400
+
+    drafts for all ppm_io.c methods done, need to be reviewed/tested
+
+commit 0dd6969f539564f0fcea5cad8249c9e38889bc85
+Author: spencerckhuang <shuan126@jh.edu>
+Date:   Sat Oct 8 20:20:53 2022 -0400
+
+    makefile created and drafted
+
+commit a3689c8e327b4b76f57792730fdc582e3d9e6ed4
+Author: spencerckhuang <shuan126@jh.edu>
+Date:   Sat Oct 8 19:24:09 2022 -0400
+
+    starter files from cs220 repo copied into shared midterm repo
